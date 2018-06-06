@@ -13,11 +13,17 @@
 #  - agave - 1/4 cup
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
-:Almond_Flour => "2 cups"
-:Gluten_Freewhole_Oats => "1 cup"
-:Kosher_Salt => "1/2 teaspoon"
-:Baking_Powder => "1/2 teaspoon"
-:Baking_Soda => ""
+:almond_flour => "2 cups",
+      :gluten_free_whole_oats => "1 cup",
+      :kosher_salt => "1/2 tea spoon",
+      :baking_powder => "1/2 tea spoon",
+      :baking_soda => "1/4 tea spoon",
+      :xanthan_Gum => "1/2 tea spoon",
+      :slivered_almonds => "1/4 cup",
+      :mini_dark_chocolate_chips => "3/4 cup",
+      :olive_oil => "1/2 cup",
+      :agave => "1/4 cup"
+    }
 
 
 
