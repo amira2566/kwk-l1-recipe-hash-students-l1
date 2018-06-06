@@ -26,9 +26,7 @@ puts perfect_10_ingredients = {
   :agave => "1/4 cup"
     }
     
-    fake_recipe = {
-      :eggs => "7 of them"
-    }
+  
 def recipe_ingredients(perfect_10_ingredients)
   return perfect_10_ingredients
 end
