@@ -25,7 +25,7 @@ perfect_10_recipe {
       :olive_oil => "1/2 cup",
       :agave => "1/4 cup"
     }
-
+end
 
 
 
