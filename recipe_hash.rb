@@ -26,10 +26,7 @@ puts perfect_10_recipe = {
   :agave => "1/4 cup"
     }
 
-
-
-
-
+def 
 
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
