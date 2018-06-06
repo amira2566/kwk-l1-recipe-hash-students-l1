@@ -13,7 +13,7 @@
 #  - agave - 1/4 cup
 # All of the ingredients should be symbols and the amounts should be strings. Remember that symbols start with a colon and be sure to sub underscores for spaces.
 
-puts perfect_10_recipe = {
+puts perfect_10_ingredients = {
   :almond_flour => "2 cups",
   :gluten_free_whole_oats => "1 cup",
   :kosher_salt => "1/2 tea spoon",
@@ -25,8 +25,13 @@ puts perfect_10_recipe = {
   :olive_oil => "1/2 cup",
   :agave => "1/4 cup"
     }
-
-def 
+    
+    fake_recipe = {
+      :eggs => "7 of them"
+    }
+def recipe_ingredients(perfect_10_ingredients)
+  return perfect_10_ingredients
+end
 
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
